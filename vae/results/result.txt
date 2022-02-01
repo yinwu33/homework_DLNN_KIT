@@ -1,0 +1,24 @@
+Epoch 99937 Iteration 7 Updates 1599000 Loss per pixel 0.005963 avg KLDIV 0.002427 
+Saving weights to weights.vae.pkl and moments to momentums.vae.pkl
+Epoch 99940 Iteration 9 Updates 1599050 Loss per pixel 0.005963 avg KLDIV 0.002426 
+Epoch 99943 Iteration 11 Updates 1599100 Loss per pixel 0.005963 avg KLDIV 0.002426 
+Epoch 99946 Iteration 13 Updates 1599150 Loss per pixel 0.005963 avg KLDIV 0.002426 
+Epoch 99949 Iteration 15 Updates 1599200 Loss per pixel 0.005963 avg KLDIV 0.002426 
+Epoch 99953 Iteration 1 Updates 1599250 Loss per pixel 0.005963 avg KLDIV 0.002426 
+Epoch 99956 Iteration 3 Updates 1599300 Loss per pixel 0.005963 avg KLDIV 0.002426 
+Epoch 99959 Iteration 5 Updates 1599350 Loss per pixel 0.005963 avg KLDIV 0.002426 
+Epoch 99962 Iteration 7 Updates 1599400 Loss per pixel 0.005963 avg KLDIV 0.002426 
+Epoch 99965 Iteration 9 Updates 1599450 Loss per pixel 0.005963 avg KLDIV 0.002426 
+Epoch 99968 Iteration 11 Updates 1599500 Loss per pixel 0.005963 avg KLDIV 0.002426 
+Saving weights to weights.vae.pkl and moments to momentums.vae.pkl
+Epoch 99971 Iteration 13 Updates 1599550 Loss per pixel 0.005963 avg KLDIV 0.002426 
+Epoch 99974 Iteration 15 Updates 1599600 Loss per pixel 0.005963 avg KLDIV 0.002426 
+Epoch 99978 Iteration 1 Updates 1599650 Loss per pixel 0.005963 avg KLDIV 0.002426 
+Epoch 99981 Iteration 3 Updates 1599700 Loss per pixel 0.005963 avg KLDIV 0.002425 
+Epoch 99984 Iteration 5 Updates 1599750 Loss per pixel 0.005963 avg KLDIV 0.002425 
+Epoch 99987 Iteration 7 Updates 1599800 Loss per pixel 0.005963 avg KLDIV 0.002425 
+Epoch 99990 Iteration 9 Updates 1599850 Loss per pixel 0.005963 avg KLDIV 0.002425 
+Epoch 99993 Iteration 11 Updates 1599900 Loss per pixel 0.005963 avg KLDIV 0.002425 
+Epoch 99996 Iteration 13 Updates 1599950 Loss per pixel 0.005963 avg KLDIV 0.002425 
+Epoch 99999 Iteration 15 Updates 1600000 Loss per pixel 0.005963 avg KLDIV 0.002425 
+Saving weights to weights.vae.pkl and moments to momentums.vae.pkl
